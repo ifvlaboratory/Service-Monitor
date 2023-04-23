@@ -5,32 +5,32 @@ repo: Service-Monitor # The name of this repository
 sites:
   - name: IFVLAB Main server - Transmission
     url: $IFVLAB_MAIN_SERVER_TRANSMISSION_URL
-    method: GET
+    #method: GET
     expectedStatusCodes:
       - 200
       - 401
   - name: IFVLAB Main server - Vaultwarden
     url: $IFVLAB_MAIN_SERVER_VAULTWARDEN_URL
-    method: GET
+    #method: GET
   - name: IFVLAB Main server - Syncthing relay
     check: "tcp-ping"
     url: $IFVLAB_MAIN_SERVER_STRELAYSRV_URL
     port: 22070
   - name: IFVLAB Backup server - Transmission
     url: $IFVLAB_BACKUP_SERVER_TRANSMISSION_URL
-    method: GET
+    #method: GET
     expectedStatusCodes:
       - 200
       - 401
   - name: IFVLAB Backup server - API
     url: $IFVLAB_BACKUP_SERVER_API_URL
-    method: GET
+    #method: GET
   - name: IFVLAB Backup server - Cloud drive
     url: $IFVLAB_BACKUP_SERVER_DRIVE_URL
-    method: GET
+    #method: GET
   - name: IFVLAB Backup server - Cloud drive IPv6
     url: $IFVLAB_BACKUP_SERVER_DRIVE_IPV6_URL
-    method: GET
+    #method: GET
 
 # assignees: 
 
