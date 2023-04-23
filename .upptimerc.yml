@@ -40,6 +40,7 @@ status-website:
   cname: status.ifvlab.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  theme: dark
   name: IFVLAB service status
   introTitle: "**IFVLAB** service status"
   introMessage: Check every 5 minutes.
@@ -51,6 +52,3 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-
-status-website:
-  theme: dark
