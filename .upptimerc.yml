@@ -34,12 +34,14 @@ sites:
   - name: IFVLAB Gateway server - AdGuardHome
     url: $IFVLAB_GATEWAY_SERVER_ADGUARDHOME_URL
     method: GET
-  - name: IFVLAB Gateway server - Vaultwarden
-    url: $IFVLAB_GATEWAY_SERVER_VAULTWARDEN_URL
-    method: GET
+# Commented because it should't be always up
+#  - name: IFVLAB Gateway server - Vaultwarden
+#    url: $IFVLAB_GATEWAY_SERVER_VAULTWARDEN_URL
+#    method: GET
   - name: IFVLAB Gateway server - SSH
     url: $IFVLAB_GATEWAY_SERVER_SSH_URL
     method: GET
+# Commented because Github Action doesn't support IPv6 connection yes
 #  - name: IFVLAB Backup server - Cloud drive IPv6
 #    url: $IFVLAB_BACKUP_SERVER_DRIVE_IPV6_URL
 #    method: GET
