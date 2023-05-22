@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ifvlab-main-server-transmission",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 910,
-    "timeDay": 584,
+    "timeDay": 525,
     "timeWeek": 543,
     "timeMonth": 910,
     "timeYear": 910,
     "dailyMinutesDown": {
-      "2023-05-22": 10,
       "2023-05-21": 17
     }
   },
@@ -26,18 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ifvlab-main-server-vaultwarden",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 351,
-    "timeDay": 391,
+    "timeDay": 352,
     "timeWeek": 378,
     "timeMonth": 351,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2023-05-22": 10,
       "2023-05-21": 17
     }
   },
@@ -64,28 +62,30 @@
     "url": "$IFVLAB_BACKUP_SERVER_TRANSMISSION_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ifvlab-backup-server-transmission",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 334,
-    "timeWeek": 293,
-    "timeMonth": 277,
-    "timeYear": 277,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 271,
+    "timeDay": 227,
+    "timeWeek": 272,
+    "timeMonth": 271,
+    "timeYear": 271,
+    "dailyMinutesDown": {
+      "2023-05-22": 2
+    }
   },
   {
     "name": "IFVLAB Backup server - API",
     "url": "$IFVLAB_BACKUP_SERVER_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ifvlab-backup-server-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 279,
@@ -93,16 +93,18 @@
     "timeWeek": 276,
     "timeMonth": 279,
     "timeYear": 279,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-22": 1
+    }
   },
   {
     "name": "IFVLAB Backup server - Cloud drive",
     "url": "$IFVLAB_BACKUP_SERVER_DRIVE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ifvlab-backup-server-cloud-drive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,7 +113,9 @@
     "timeWeek": 181,
     "timeMonth": 204,
     "timeYear": 204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-22": 0
+    }
   },
   {
     "name": "IFVLAB Gateway server - Admin",
