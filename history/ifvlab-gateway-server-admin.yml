@@ -1,7 +1,7 @@
 url: $IFVLAB_GATEWAY_SERVER_ADMIN_URL
 status: up
 code: 200
-responseTime: 425
-lastUpdated: 2023-05-24T23:10:53.686Z
+responseTime: 350
+lastUpdated: 2023-05-25T23:09:27.657Z
 startTime: Sun Apr 23 2023 08:06:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
