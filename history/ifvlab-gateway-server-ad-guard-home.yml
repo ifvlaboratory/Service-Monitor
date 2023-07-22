@@ -1,7 +1,7 @@
 url: $IFVLAB_GATEWAY_SERVER_ADGUARDHOME_URL
 status: up
 code: 200
-responseTime: 242
-lastUpdated: 2023-07-21T23:09:19.782Z
+responseTime: 181
+lastUpdated: 2023-07-22T23:08:51.946Z
 startTime: Sun Apr 23 2023 08:06:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
