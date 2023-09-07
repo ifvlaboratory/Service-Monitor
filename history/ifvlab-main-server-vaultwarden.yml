@@ -1,7 +1,7 @@
 url: $IFVLAB_MAIN_SERVER_VAULTWARDEN_URL
-status: up
-code: 200
-responseTime: 256
-lastUpdated: 2023-09-06T23:09:02.157Z
+status: down
+code: 502
+responseTime: 534
+lastUpdated: 2023-09-07T08:56:57.108Z
 startTime: 2023-04-23T07:12:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
