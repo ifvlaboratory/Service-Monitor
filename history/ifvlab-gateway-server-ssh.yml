@@ -1,7 +1,7 @@
 url: $IFVLAB_GATEWAY_SERVER_SSH_URL
 status: up
 code: 200
-responseTime: 240
-lastUpdated: 2023-09-08T23:09:14.934Z
+responseTime: 238
+lastUpdated: 2023-09-09T23:08:27.383Z
 startTime: 2023-04-23T08:06:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
