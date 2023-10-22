@@ -1,7 +1,7 @@
 url: $IFVLAB_BACKUP_SERVER_TRANSMISSION_URL
-status: up
-code: 401
-responseTime: 269
-lastUpdated: 2023-10-21T23:08:43.273Z
+status: down
+code: 530
+responseTime: 58
+lastUpdated: 2023-10-22T16:10:25.303Z
 startTime: 2023-04-23T07:12:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
