@@ -1,7 +1,7 @@
 url: $IFVLAB_BACKUP_SERVER_DRIVE_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-10-28T11:15:08.168Z
+status: up
+code: 200
+responseTime: 46
+lastUpdated: 2023-10-28T11:33:06.589Z
 startTime: 2023-04-23T07:12:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
