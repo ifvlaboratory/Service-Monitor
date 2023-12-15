@@ -1,7 +1,7 @@
 url: $IFVLAB_MAIN_SERVER_TRANSMISSION_URL
-status: down
-code: 530
-responseTime: 52
-lastUpdated: 2023-12-15T08:55:31.331Z
+status: up
+code: 200
+responseTime: 675
+lastUpdated: 2023-12-15T09:12:09.398Z
 startTime: 2023-04-23T07:12:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
