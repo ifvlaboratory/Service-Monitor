@@ -1,7 +1,7 @@
 url: $IFVLAB_BACKUP_SERVER_API_URL
 status: down
 code: 403
-responseTime: 62
-lastUpdated: 2024-01-25T23:10:38.710Z
+responseTime: 115
+lastUpdated: 2024-01-26T23:09:56.690Z
 startTime: 2023-04-23T07:12:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
