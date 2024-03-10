@@ -4,18 +4,20 @@
     "url": "$IFVLAB_MAIN_SERVER_VAULTWARDEN_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ifvlab-main-server-vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 325,
-    "timeDay": 168,
-    "timeWeek": 194,
-    "timeMonth": 119,
+    "timeDay": 262,
+    "timeWeek": 223,
+    "timeMonth": 130,
     "timeYear": 325,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-10": 0
+    }
   },
   {
     "name": "IFVLAB Main server - Syncthing relay",
@@ -26,7 +28,7 @@
     "uptime": "92.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "35.91%",
+    "uptimeMonth": "35.94%",
     "uptimeYear": "92.77%",
     "time": 228,
     "timeDay": 215,
