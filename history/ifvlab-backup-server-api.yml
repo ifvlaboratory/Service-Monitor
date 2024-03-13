@@ -1,7 +1,7 @@
 url: $IFVLAB_BACKUP_SERVER_API_URL
 status: up
 code: 200
-responseTime: 100
-lastUpdated: 2024-03-12T23:10:37.912Z
+responseTime: 273
+lastUpdated: 2024-03-13T23:10:03.399Z
 startTime: 2023-04-23T07:12:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
