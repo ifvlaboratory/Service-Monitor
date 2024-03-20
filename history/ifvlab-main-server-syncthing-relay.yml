@@ -1,7 +1,7 @@
 url: $IFVLAB_MAIN_SERVER_STRELAYSRV_URL
-status: up
-code: 200
-responseTime: 240
-lastUpdated: 2024-03-19T23:10:20.526Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-03-20T10:57:13.465Z
 startTime: 2023-04-23T07:12:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
